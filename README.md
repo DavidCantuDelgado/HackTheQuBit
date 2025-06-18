@@ -5,4 +5,4 @@
 Reporsitorio:
 https://github.com/DavidCantuDelgado/HackTheQuBit
 
-Ejemplo de commit local
+# Hack The QuBit - Taller GitHub
