@@ -8,5 +8,3 @@ https://github.com/DavidCantuDelgado/HackTheQuBit
 # Hack The QuBit - Taller GitHub
 
 ## Nos vemos el fin de semana
-
-Hagamos un mundo mejor
